@@ -1,3 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/lmartinc/.rvm/gems/ruby-1.8.7-p302@aggregator/gems/simple-navigation-3.0.0'
+let g:netrw_dirhist_2='/Users/lmartinc/Projects/personal/foundum.com'
+let g:netrw_dirhist_3='/Users/lmartinc/.rvm/gems/ruby-1.8.7-p302@aggregator/gems/rack-restful_submit-1.0.0'
+let g:netrw_dirhist_4='/Users/lmartinc/.rvm/gems/ruby-1.8.7-p302@aggregator/gems/rack-1.2.1'
+let g:netrw_dirhist_5='/Users/lmartinc/.rvm/gems/ruby-1.8.7-p302@aggregator/gems/rack-restful_submit-1.1.1'
+let g:netrw_dirhist_6='/Users/lmartinc/.rvm/gems/ruby-1.8.7-p302@aggregator/gems/rails-2.3.9'
+let g:netrw_dirhist_7='/Users/lmartinc/.rvm/gems/ruby-1.8.7-p302@aggregator/gems/activerecord-2.3.9'
