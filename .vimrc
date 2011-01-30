@@ -25,6 +25,9 @@ nnoremap <leader>q gqip
 " Create vertical split and switch to it
 nnoremap <leader>w <C-w>v<C-w>l
 
+" ZoomWin
+nnoremap <leader>o <C-w>o
+
 set hidden
 set nowrap        " don't wrap lines
 set tabstop=2     " a tab is four spaces
@@ -64,6 +67,7 @@ end
 
 if &t_Co >= 256 || has("gui_running")
    colorscheme mustang
+   " colorscheme Twilight
 endif
 
 if &t_Co > 2 || has("gui_running") " switch syntax highlighting on, when the terminal has colors
